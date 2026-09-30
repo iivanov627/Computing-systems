@@ -1,0 +1,12 @@
+# Mosquitto
+**/mosquitto/data/
+**/mosquitto/log/
+
+# Node-RED
+**/nodered/data/
+
+# InfluxDB
+**/influxdb_data/
+
+# Docker
+*.db
